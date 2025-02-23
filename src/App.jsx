@@ -7,6 +7,7 @@ import Click from './Click'
 import Togglebtn from './Togglebtn'
 import UserInputDisplay from './UserInputDisplay'
 import Themeswitcher from './Themeswitcher'
+import Lists_keys from './lists_keys'
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
       <Togglebtn/>
       <UserInputDisplay/>
       <Themeswitcher/>
+      <Lists_keys/>
     </>
   )
 }
